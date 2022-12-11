@@ -1,0 +1,11 @@
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\bin\Debug\LDR_Interface.exe.config
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\bin\Debug\LDR_Interface.exe
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\bin\Debug\LDR_Interface.pdb
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\obj\Debug\LDR_Interface.csproj.AssemblyReference.cache
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\obj\Debug\LDR_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\obj\Debug\LDR_Interface.Form1.resources
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\obj\Debug\LDR_Interface.Properties.Resources.resources
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\obj\Debug\LDR_Interface.csproj.GenerateResource.cache
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\obj\Debug\LDR_Interface.csproj.CoreCompileInputs.cache
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\obj\Debug\LDR_Interface.exe
+C:\Users\abdrr\source\repos\LDR_Interface\LDR_Interface\obj\Debug\LDR_Interface.pdb
